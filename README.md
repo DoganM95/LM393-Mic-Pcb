@@ -1,5 +1,5 @@
 # LM393-Mic-Pcb
-LM393 based microphone module for arduinos. This wil become a part of another bigger project and serves as a copyable module for it. PCB prototype is for testing the circuit.
+LM393 based microphone module for arduinos. This wil become a part of another bigger project and serves as a copyable module for it. PCB prototype is for testing the circuit and seeing if it catches fire or not.
 
 ## Visual Overview
 <table>
