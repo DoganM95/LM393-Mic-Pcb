@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="no"/>
+<setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
@@ -1606,22 +1606,22 @@ by DoganM95</text>
 <text x="83.519846875" y="68.6537875" size="0.6096" layer="125" rot="R90">VR1</text>
 <wire x1="13.459459375" y1="-0.39878125" x2="13.459459375" y2="95.89008125" width="0.381" layer="46"/>
 <text x="13.459459375" y="98.17608125" size="1.778" layer="46" ratio="15" align="center">v-score</text>
-<wire x1="27.11958125" y1="-0.39878125" x2="27.11958125" y2="95.89008125" width="0.381" layer="46"/>
-<text x="27.11958125" y="98.17608125" size="1.778" layer="46" ratio="15" align="center">v-score</text>
-<wire x1="40.7797" y1="-0.39878125" x2="40.7797" y2="95.89008125" width="0.381" layer="46"/>
-<text x="40.7797" y="98.17608125" size="1.778" layer="46" ratio="15" align="center">v-score</text>
-<wire x1="54.43981875" y1="-0.39878125" x2="54.43981875" y2="95.89008125" width="0.381" layer="46"/>
-<text x="54.43981875" y="98.17608125" size="1.778" layer="46" ratio="15" align="center">v-score</text>
-<wire x1="68.099940625" y1="-0.39878125" x2="68.099940625" y2="95.89008125" width="0.381" layer="46"/>
-<text x="68.099940625" y="98.17608125" size="1.778" layer="46" ratio="15" align="center">v-score</text>
-<wire x1="81.760059375" y1="-0.39878125" x2="81.760059375" y2="95.89008125" width="0.381" layer="46"/>
-<text x="81.760059375" y="98.17608125" size="1.778" layer="46" ratio="15" align="center">v-score</text>
-<wire x1="94.67341875" y1="-0.39878125" x2="94.67341875" y2="95.89008125" width="0.381" layer="46"/>
-<text x="94.67341875" y="98.17608125" size="1.778" layer="46" ratio="15" align="center">v-score</text>
-<wire x1="-0.39878125" y1="29.778959375" x2="101.970840625" y2="29.778959375" width="0.381" layer="46"/>
-<text x="109.590840625" y="29.778959375" size="1.778" layer="46" ratio="15" align="center">v-score</text>
-<wire x1="-0.39878125" y1="59.76111875" x2="101.970840625" y2="59.76111875" width="0.381" layer="46"/>
-<text x="109.590840625" y="59.76111875" size="1.778" layer="46" ratio="15" align="center">v-score</text>
+<wire x1="27.11958125" y1="-0.39878125" x2="27.11958125" y2="95.89008125" width="0.381" layer="102"/>
+<text x="27.11958125" y="98.17608125" size="1.778" layer="102" ratio="15" align="center">v-score</text>
+<wire x1="40.7797" y1="-0.39878125" x2="40.7797" y2="95.89008125" width="0.381" layer="102"/>
+<text x="40.7797" y="98.17608125" size="1.778" layer="102" ratio="15" align="center">v-score</text>
+<wire x1="54.43981875" y1="-0.39878125" x2="54.43981875" y2="95.89008125" width="0.381" layer="102"/>
+<text x="54.43981875" y="98.17608125" size="1.778" layer="102" ratio="15" align="center">v-score</text>
+<wire x1="68.099940625" y1="-0.39878125" x2="68.099940625" y2="95.89008125" width="0.381" layer="102"/>
+<text x="68.099940625" y="98.17608125" size="1.778" layer="102" ratio="15" align="center">v-score</text>
+<wire x1="81.760059375" y1="-0.39878125" x2="81.760059375" y2="95.89008125" width="0.381" layer="102"/>
+<text x="81.760059375" y="98.17608125" size="1.778" layer="102" ratio="15" align="center">v-score</text>
+<wire x1="94.67341875" y1="-0.39878125" x2="94.67341875" y2="95.89008125" width="0.381" layer="102"/>
+<text x="94.67341875" y="98.17608125" size="1.778" layer="102" ratio="15" align="center">v-score</text>
+<wire x1="-0.39878125" y1="29.778959375" x2="101.970840625" y2="29.778959375" width="0.381" layer="102"/>
+<text x="109.590840625" y="29.778959375" size="1.778" layer="102" ratio="15" align="center">v-score</text>
+<wire x1="-0.39878125" y1="59.76111875" x2="101.970840625" y2="59.76111875" width="0.381" layer="102"/>
+<text x="109.590840625" y="59.76111875" size="1.778" layer="102" ratio="15" align="center">v-score</text>
 </plain>
 <libraries>
 <library name="LTST-G563ZEGBW">
