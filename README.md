@@ -15,4 +15,6 @@ LM393 based microphone module for arduinos. This wil become a part of another bi
 
 ## Key Features
 - Adjustable mic sensitivity
-- Choosable led colors (short the corresponding jumper. JP1:R-pwr, JP2:G-pwr, JP3:B-pwr, JP4:R-out, JP5:G-out, JP5:B-out)
+- Choosable led colors (short the corresponding jumper)
+  - Power Led: JP1:Red, JP2:Green, JP3:Blue,
+  - Output Led: JP4:Red, JP5:Green, JP5:Blue
