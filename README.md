@@ -18,3 +18,6 @@ LM393 based microphone module for arduinos. This wil become a part of another bi
 - Choosable led colors (short the corresponding jumper)
   - Power Led: JP1:Red, JP2:Green, JP3:Blue,
   - Output Led: JP4:Red, JP5:Green, JP5:Blue
+
+## Panelization
+The panelized variant is an experiment to see, if the manufacturer this gets ordered from is able to see v-scores and on which layers it gets recognized. The experimental panel uses (46 Milling) and (102 Vscore) to test this. No further remarks will be left to the manufacturer.
