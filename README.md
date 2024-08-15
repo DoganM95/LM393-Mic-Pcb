@@ -10,14 +10,12 @@ LM393 based microphone module for arduinos. This wil become a part of another bi
     <td>
       <img src="https://github.com/user-attachments/assets/d1ee959c-7480-47fb-96e9-a7b4664eb09b" alt="PCB Bottom View" width="100%" />
     </td>
-    <!--
     <td>
       <img src="https://github.com/user-attachments/assets/e245f2f4-5378-4eea-a7b9-31095ff8366a" alt="PCB Top View" width="100%" />
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/6b7e323e-def7-4d90-98ed-5b7953c77e4e" alt="PCB Bottom View" width="100%" />
     </td>
-    -->
   </tr>
 </table>
 
